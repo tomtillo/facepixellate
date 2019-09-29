@@ -40,5 +40,3 @@ def pixellate_face(img_path,pixel_size) :
         orig_img[y:y + h, x:x + w] = imp_pix
     
     return orig_img
-
-# ---------------------------------------------------------------- End of functions
